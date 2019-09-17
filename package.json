@@ -1,0 +1,26 @@
+{
+  "name": "xmlvalidator_modejs",
+  "version": "1.0.0",
+  "description": "XML validator 4 nodejs/typescript using libxml",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutonda/xml-validator-nodejs.git"
+  },
+  "keywords": [
+    "xml",
+    "xsd",
+    "nodejs",
+    "typescript",
+    "validator"
+  ],
+  "author": "Sebastião Lutonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lutonda/xml-validator-nodejs/issues"
+  },
+  "homepage": "https://github.com/lutonda/xml-validator-nodejs#readme"
+}
